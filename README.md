@@ -136,6 +136,5 @@ Works on all modern browsers:
 - Stock is restored when items are removed from bill
 - The application works offline (frontend only)
 
----
 
-**Made with ❤️ for beginners learning web development**
+
